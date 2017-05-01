@@ -1,0 +1,19 @@
+{
+  "name": "tobedon-bot",
+  "version": "1.0.0",
+  "description": "node chatbot",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tobedon-chatbot"
+  },
+  "author": "",
+  "license": "ISC"
+}
